@@ -65,10 +65,7 @@ Jeśli tekst w aplikacji brzmi nienaturalnie, jest niejasny, zbyt formalny albo 
 ---
 
 <p>
-  <a href="https://fringla.com">
+  © 2026 Fringla Studio <a href="https://fringla.com">
     <img src="assets/fringla.svg" alt="Fringla Studio" width="90" align="top">
-  </a>
-  © 2026 Fringla Studio ·
-  <a href="https://fringla.com">fringla.com</a> ·
-  <a href="mailto:hello@fringla.com">hello@fringla.com</a>
+  </a> fringla.com</a>
 </p>
