@@ -65,7 +65,7 @@ If app text sounds unnatural, unclear, too formal, or simply wrong, please repor
 ---
 
 <p>
-  © 2026 Fringla Studio <a href="https://fringla.com">
+  © 2026 <a href="https://fringla.com">
     <img src="assets/fringla.svg" alt="Fringla Studio" width="90" align="top">
-  </a> fringla.com</a>
+  </a>
 </p>
