@@ -78,6 +78,8 @@ If app text sounds unnatural, unclear, too formal, or simply wrong, please repor
 
 **[Text or translation issue](../../issues/new?template=translation_fix.yml)**
 
+---
+
 ## Fringla Studio
 
 <p>

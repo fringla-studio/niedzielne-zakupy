@@ -78,6 +78,8 @@ Jeśli tekst w aplikacji brzmi nienaturalnie, jest niejasny, zbyt formalny albo 
 
 **[Problem z tekstem lub tłumaczeniem](../../issues/new?template=translation_fix.yml)**
 
+---
+
 ## Fringla Studio
 
 <p>
