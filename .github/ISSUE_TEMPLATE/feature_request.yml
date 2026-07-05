@@ -1,0 +1,52 @@
+name: Feature request / Pomysł na usprawnienie
+description: Suggest a small improvement or new product idea.
+title: "[Idea]: "
+labels:
+  - enhancement
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting an improvement.
+
+        Dziękujemy za pomysł na usprawnienie aplikacji.
+
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like to improve? / Co chcesz usprawnić?
+      placeholder: I would like the app to...
+    validations:
+      required: true
+
+  - type: textarea
+    id: reason
+    attributes:
+      label: Why would this be useful? / Dlaczego to byłoby przydatne?
+      placeholder: This would help because...
+    validations:
+      required: true
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area / Obszar
+      options:
+        - Start screen / Ekran startowy
+        - Calendar / Kalendarz
+        - List of Sundays and holidays / Lista niedziel i świąt
+        - Widgets / Widżety
+        - Reminders / Powiadomienia
+        - Translations / Tłumaczenia
+        - Accessibility / Dostępność
+        - Other / Inne
+    validations:
+      required: false
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional notes / Dodatkowe uwagi
+      placeholder: Add screenshots, examples, or context if useful.
+    validations:
+      required: false

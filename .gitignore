@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+._*
+
+# Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Dependencies and build output
+node_modules/
+dist/
+build/
+.cache/

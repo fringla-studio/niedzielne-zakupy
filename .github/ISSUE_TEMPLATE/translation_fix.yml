@@ -1,0 +1,55 @@
+name: Translation issue / Problem z tłumaczeniem
+description: Report unclear, incorrect, or unnatural app text.
+title: "[Translation]: "
+labels:
+  - translation
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form when app text sounds unclear, unnatural, too formal, or incorrect.
+
+        Użyj tego formularza, jeśli tekst w aplikacji brzmi niejasno, nienaturalnie, zbyt formalnie albo błędnie.
+
+  - type: dropdown
+    id: language
+    attributes:
+      label: Language / Język
+      options:
+        - Polish / Polski
+        - English
+        - Other / Inny
+    validations:
+      required: true
+
+  - type: input
+    id: screen
+    attributes:
+      label: Where is the text? / Gdzie jest ten tekst?
+      placeholder: About screen, Settings, widget, reminder...
+    validations:
+      required: true
+
+  - type: textarea
+    id: current
+    attributes:
+      label: Current text / Obecny tekst
+      placeholder: Paste the current text here.
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is wrong? / Co jest nie tak?
+      placeholder: It sounds too formal / It is unclear / It has a typo...
+    validations:
+      required: true
+
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested text / Propozycja poprawki
+      placeholder: Optional — suggest a better version.
+    validations:
+      required: false

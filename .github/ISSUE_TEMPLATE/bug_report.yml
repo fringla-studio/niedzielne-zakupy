@@ -1,0 +1,98 @@
+name: Bug report / Zgłoszenie błędu
+description: Report something that does not work as expected.
+title: "[Bug]: "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting a problem with Niedzielne Zakupy.
+
+        Dziękujemy za zgłoszenie problemu z aplikacją Niedzielne Zakupy.
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened? / Co się stało?
+      description: Describe the problem briefly.
+      placeholder: The widget shows the wrong date / Widżet pokazuje złą datę...
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect? / Czego oczekujesz?
+      placeholder: I expected the app to show the next trading Sunday...
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce / Kroki odtworzenia
+      description: Help us reproduce the issue.
+      placeholder: |
+        1. Open the app
+        2. Go to...
+        3. Tap...
+        4. See...
+    validations:
+      required: false
+
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform / Platforma
+      options:
+        - iOS
+        - Android
+        - Both / Obie
+        - Not sure / Nie wiem
+    validations:
+      required: true
+
+  - type: input
+    id: app-version
+    attributes:
+      label: App version / Wersja aplikacji
+      placeholder: "2.0"
+    validations:
+      required: false
+
+  - type: input
+    id: device
+    attributes:
+      label: Device / Urządzenie
+      placeholder: "iPhone 15, Samsung Galaxy S24, Pixel 8..."
+    validations:
+      required: false
+
+  - type: input
+    id: os-version
+    attributes:
+      label: System version / Wersja systemu
+      placeholder: "iOS 18.5, Android 15..."
+    validations:
+      required: false
+
+  - type: dropdown
+    id: language
+    attributes:
+      label: App language / Język aplikacji
+      options:
+        - Polish / Polski
+        - English
+        - Other / Inny
+        - Not sure / Nie wiem
+    validations:
+      required: false
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots or recordings / Zrzuty ekranu lub nagrania
+      description: Add screenshots if they help explain the problem. Please remove private information first.
+    validations:
+      required: false
