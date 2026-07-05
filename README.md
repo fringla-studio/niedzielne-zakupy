@@ -14,9 +14,9 @@ Do dodania:
 
 <p>
   <a href="#pobierz-aplikacje">Pobierz</a> ·
+  <a href="#zrzuty-ekranu">Zrzuty ekranu</a> ·
   <a href="#zgłoś-problem">Zgłoś problem</a> ·
-  <a href="#zaproponuj-ulepszenie">Zaproponuj ulepszenie</a> ·
-  <a href="#o-fringla-studio">Fringla Studio</a>
+  <a href="#zaproponuj-ulepszenie">Zaproponuj ulepszenie</a>
 </p>
 
 ---
@@ -38,16 +38,26 @@ Aplikacja pokazuje:
 
 Aplikacja jest tworzona przede wszystkim dla osób mieszkających w Polsce, ale może pomóc także osobom przyjezdnym, ekspatom i wszystkim, którzy nie śledzą na bieżąco zasad dotyczących niedziel handlowych.
 
+## Zrzuty ekranu
+
+<p>
+  <img src="assets/appstore-screenshot-1.jpg" alt="Ekran główny aplikacji Niedzielne Zakupy" width="160">
+  <img src="assets/appstore-screenshot-2.jpg" alt="Kalendarz w aplikacji Niedzielne Zakupy" width="160">
+  <img src="assets/appstore-screenshot-3.jpg" alt="Lista niedziel handlowych i dni wolnych" width="160">
+  <img src="assets/appstore-screenshot-4.jpg" alt="Przypomnienia w aplikacji Niedzielne Zakupy" width="160">
+  <img src="assets/appstore-screenshot-5.jpg" alt="Widżety aplikacji Niedzielne Zakupy" width="160">
+</p>
+
 ## Pobierz aplikację
 
 | Platforma | Link |
 | --- | --- |
-| iOS | [Pobierz z App Store](https://apps.apple.com/pl/app/niedzielne-zakupy/id6784206894?l=pl)
-| Android | [Pobierz z Google Play](https://play.google.com/store/apps/details?id=fringoo.tbansundays?hl=pl)
+| iOS | [Pobierz z App Store](https://apps.apple.com/pl/app/niedzielne-zakupy/id6784206894?l=pl) |
+| Android | [Pobierz z Google Play](https://play.google.com/store/apps/details?id=fringoo.tbansundays&hl=pl) |
 
 <!-- Zamień na prawdziwe linki:
 | iOS | [Pobierz z App Store](https://apps.apple.com/pl/app/niedzielne-zakupy/id6784206894?l=pl) |
-| Android | [Pobierz z Google Play](https://play.google.com/store/apps/details?id=fringoo.tbansundays?hl=pl) |
+| Android | [Pobierz z Google Play](https://play.google.com/store/apps/details?id=fringoo.tbansundays&hl=pl) |
 -->
 
 ## O tym repozytorium
@@ -109,37 +119,14 @@ Jeśli tłumaczenie brzmi nienaturalnie, jest niejasne, zbyt formalne albo po pr
 
 **[Zgłoś problem z tłumaczeniem](../../issues/new?template=translation_fix.yml)**
 
-## Prywatność
-
-Aplikacja jest małym narzędziem użytkowym, które szanuje prywatność użytkowników. Do działania nie jest wymagane zakładanie konta a aplikacja nie ma wbudowanych mechanizmów śledzenia użytkowników do celów reklamowych. Zbierane są jedyne anonimowe statystyki korzystania z funkcji aplikacji, służące do rozwijania produktu (używamy w tym celu TelemetryDeck).
-
-## Informacja prawna
-
-Aplikacja ma charakter informacyjny, pomaga w czytelny sposób pokazać niedziele handlowe i wybrane dni ustawowo wolne od handlu. Jej działanie jest oparte o zasady zapisane w [Ustawie z dnia 10 stycznia 2018 r. o ograniczeniu handlu w niedziele i święta oraz w niektóre inne dni](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000305).
-
-## O Fringla Studio
-
 <p>
   <a href="https://fringla.com">
     <img src="assets/fringla.svg" alt="Fringla Studio" width="180">
   </a>
 </p>
 
-**Fringla Studio** projektuje i buduje małe, użyteczne produkty cyfrowe - od aplikacji mobilnych i prototypów po przebudowy starszych aplikacji.
-
-W pracy stawiamy na:
-
-- jasny zakres produktu,
-- spokojne, czytelne interfejsy,
-- praktyczną inżynierię,
-- utrzymywalne oprogramowanie,
-- produkty dopracowane zamiast przekombinowanych.
-
-Strona: [fringla.com](https://fringla.com)
-
----
-
 <p>
-  <img src="assets/fringla-mark.svg" alt="" width="20">
-  Stworzone przez <strong>Fringla Studio</strong>.
+  © 2026 Fringla Studio ·
+  <a href="https://fringla.com">fringla.com</a> ·
+  <a href="mailto:hello@fringla.com">hello@fringla.com</a>
 </p>

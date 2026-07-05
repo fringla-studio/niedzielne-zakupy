@@ -14,9 +14,9 @@ Recommended:
 
 <p>
   <a href="#download">Download</a> ·
+  <a href="#screenshots">Screenshots</a> ·
   <a href="#report-a-problem">Report a problem</a> ·
-  <a href="#suggest-an-improvement">Suggest an improvement</a> ·
-  <a href="#about-fringla-studio">Fringla Studio</a>
+  <a href="#suggest-an-improvement">Suggest an improvement</a>
 </p>
 
 ---
@@ -37,6 +37,16 @@ The app shows:
 - home-screen widgets for a quick glance.
 
 The app is designed primarily for people living in Poland, but it can also help visitors, expats, and anyone who does not closely follow Polish trading Sunday rules.
+
+## Screenshots
+
+<p>
+  <img src="assets/appstore-screenshot-1-en.jpg" alt="Niedzielne Zakupy app home screen" width="160">
+  <img src="assets/appstore-screenshot-2-en.jpg" alt="Niedzielne Zakupy app calendar" width="160">
+  <img src="assets/appstore-screenshot-3-en.jpg" alt="Trading Sundays and holidays list" width="160">
+  <img src="assets/appstore-screenshot-4-en.jpg" alt="Niedzielne Zakupy app reminders" width="160">
+  <img src="assets/appstore-screenshot-5-en.jpg" alt="Niedzielne Zakupy app widgets" width="160">
+</p>
 
 ## Download
 
@@ -109,37 +119,14 @@ If a translation sounds unnatural, unclear, too formal, or simply wrong, please 
 
 **[Report a translation issue](../../issues/new?template=translation_fix.yml)**
 
-## Privacy
-
-The app is a small utility that respects user privacy. It does not require creating an account and does not include user-tracking mechanisms for advertising purposes. We collect only anonymous usage statistics for app features to help improve the product. We use TelemetryDeck for this.
-
-## Legal note
-
-The app is an informational utility. It helps present trading Sundays and selected public holidays with trading restrictions in a clear, practical form. Its behavior is based on the rules set out in the [Act of 10 January 2018 on restricting trade on Sundays, public holidays, and certain other days](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000305).
-
-## About Fringla Studio
-
 <p>
   <a href="https://fringla.com">
     <img src="assets/fringla.svg" alt="Fringla Studio" width="180">
   </a>
 </p>
 
-**Fringla Studio** designs and builds small, useful software products, from mobile apps and prototypes to rebuilds of older applications.
-
-We care about:
-
-- clear product scope,
-- calm, readable interfaces,
-- practical engineering,
-- maintainable software,
-- products that feel finished, not overdesigned.
-
-Website: [fringla.com](https://fringla.com)
-
----
-
 <p>
-  <img src="assets/fringla-mark.svg" alt="" width="20">
-  Made by <strong>Fringla Studio</strong>.
+  © 2026 Fringla Studio ·
+  <a href="https://fringla.com">fringla.com</a> ·
+  <a href="mailto:hello@fringla.com">hello@fringla.com</a>
 </p>
