@@ -1,17 +1,20 @@
 # Niedzielne Zakupy
 
 **Check whether stores in Poland are open today.**  
-The app shows trading Sundays, days with trading restrictions, public holidays, and the next dates when shopping is available.
-
-Niedzielne Zakupy is a simple iOS and Android app made by **Fringla Studio**.
+Niedzielne Zakupy is an iOS and Android app that shows trading Sundays, days with trading restrictions, public holidays, and upcoming shopping dates.
 
 [Polska wersja](README.md)
+
+This is the public repository for the **Niedzielne Zakupy** app. It does not contain the source code. It is used for:
+
+- reporting bugs,
+- suggesting improvements,
+- reporting text or translation issues.
 
 **Download:** [App Store](https://apps.apple.com/pl/app/niedzielne-zakupy/id6784206894?l=en) · [Google Play](https://play.google.com/store/apps/details?id=fringoo.tbansundays&hl=en)  
 **Feedback:** [Report a bug](../../issues/new?template=bug_report.yml) · [Suggest an improvement](../../issues/new?template=feature_request.yml) · [Text or translation issue](../../issues/new?template=translation_fix.yml)
 
 ---
-
 <p>
   <img src="assets/appstore-screenshot-1-en.jpg" alt="Niedzielne Zakupy app home screen" width="160">
   <img src="assets/appstore-screenshot-2-en.jpg" alt="Niedzielne Zakupy app calendar" width="160">
@@ -19,28 +22,7 @@ Niedzielne Zakupy is a simple iOS and Android app made by **Fringla Studio**.
   <img src="assets/appstore-screenshot-4-en.jpg" alt="Niedzielne Zakupy app reminders" width="160">
   <img src="assets/appstore-screenshot-5-en.jpg" alt="Niedzielne Zakupy app widgets" width="160">
 </p>
-
-## What the app does
-
-The app shows:
-
-- whether stores are open today,
-- when the next trading Sunday takes place,
-- which public holidays mean trading restrictions,
-- a calendar and list of upcoming dates,
-- reminders and widgets for your phone home screen.
-
-## Public app repository
-
-This is the public repository for the **Niedzielne Zakupy** app.
-
-It does not contain the source code. It is used for:
-
-- reporting bugs,
-- suggesting improvements,
-- reporting text or translation issues,
-- describing widget or notification problems,
-- following public product updates.
+---
 
 ## Report a problem
 
