@@ -1,11 +1,11 @@
 # Niedzielne Zakupy
 
 **Sprawdź, czy sklepy w Polsce są dziś otwarte.**  
-Niedzielne Zakupy to Aplikacja dla iOS i Androida, która pokazuje niedziele handlowe, dni z zakazem handlu, święta oraz najbliższe terminy zakupów..
+Niedzielne Zakupy to aplikacja dla iOS i Androida, która pokazuje niedziele handlowe, dni z zakazem handlu, święta oraz najbliższe terminy zakupów.
 
 [English version](README.en.md)
 
-To jest publiczne repozytorium aplikacji **Niedzielne Zakupy**. Nie zawiera kodu źródłowego. Służy do:
+To jest publiczne „issues-only” repozytorium aplikacji **Niedzielne Zakupy**. Nie zawiera kodu źródłowego. Służy do:
 
 - zgłaszania błędów,
 - proponowania usprawnień,
@@ -15,6 +15,7 @@ To jest publiczne repozytorium aplikacji **Niedzielne Zakupy**. Nie zawiera kodu
 **Feedback:** [Zgłoś błąd](../../issues/new?template=bug_report.yml) · [Zaproponuj ulepszenie](../../issues/new?template=feature_request.yml) · [Problem z tekstem lub tłumaczeniem](../../issues/new?template=translation_fix.yml)
 
 ---
+
 <p>
   <img src="assets/appstore-screenshot-1.jpg" alt="Ekran główny aplikacji Niedzielne Zakupy" width="160">
   <img src="assets/appstore-screenshot-2.jpg" alt="Kalendarz w aplikacji Niedzielne Zakupy" width="160">
@@ -22,6 +23,7 @@ To jest publiczne repozytorium aplikacji **Niedzielne Zakupy**. Nie zawiera kodu
   <img src="assets/appstore-screenshot-4.jpg" alt="Przypomnienia w aplikacji Niedzielne Zakupy" width="160">
   <img src="assets/appstore-screenshot-5.jpg" alt="Widżety aplikacji Niedzielne Zakupy" width="160">
 </p>
+
 ---
 
 ## Zgłoś problem
@@ -62,15 +64,10 @@ Jeśli tekst w aplikacji brzmi nienaturalnie, jest niejasny, zbyt formalny albo 
 
 ---
 
-## Fringla Studio
-
 <p>
   <a href="https://fringla.com">
     <img src="assets/fringla.svg" alt="Fringla Studio" width="180">
   </a>
-</p>
-
-<p>
   © 2026 Fringla Studio ·
   <a href="https://fringla.com">fringla.com</a> ·
   <a href="mailto:hello@fringla.com">hello@fringla.com</a>

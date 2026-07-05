@@ -5,7 +5,7 @@ Niedzielne Zakupy is an iOS and Android app that shows trading Sundays, days wit
 
 [Polska wersja](README.md)
 
-This is the public repository for the **Niedzielne Zakupy** app. It does not contain the source code. It is used for:
+This is the public „issues-only” repository for the **Niedzielne Zakupy** app. It does not contain the source code. It is used for:
 
 - reporting bugs,
 - suggesting improvements,
@@ -15,6 +15,7 @@ This is the public repository for the **Niedzielne Zakupy** app. It does not con
 **Feedback:** [Report a bug](../../issues/new?template=bug_report.yml) · [Suggest an improvement](../../issues/new?template=feature_request.yml) · [Text or translation issue](../../issues/new?template=translation_fix.yml)
 
 ---
+
 <p>
   <img src="assets/appstore-screenshot-1-en.jpg" alt="Niedzielne Zakupy app home screen" width="160">
   <img src="assets/appstore-screenshot-2-en.jpg" alt="Niedzielne Zakupy app calendar" width="160">
@@ -22,6 +23,7 @@ This is the public repository for the **Niedzielne Zakupy** app. It does not con
   <img src="assets/appstore-screenshot-4-en.jpg" alt="Niedzielne Zakupy app reminders" width="160">
   <img src="assets/appstore-screenshot-5-en.jpg" alt="Niedzielne Zakupy app widgets" width="160">
 </p>
+
 ---
 
 ## Report a problem
@@ -62,15 +64,10 @@ If app text sounds unnatural, unclear, too formal, or simply wrong, please repor
 
 ---
 
-## Fringla Studio
-
 <p>
   <a href="https://fringla.com">
     <img src="assets/fringla.svg" alt="Fringla Studio" width="180">
   </a>
-</p>
-
-<p>
   © 2026 Fringla Studio ·
   <a href="https://fringla.com">fringla.com</a> ·
   <a href="mailto:hello@fringla.com">hello@fringla.com</a>
