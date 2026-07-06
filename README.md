@@ -12,7 +12,8 @@ To jest publiczne „issues-only” repozytorium aplikacji **Niedzielne Zakupy**
 - zgłaszania problemów z tekstem lub tłumaczeniem.
 
 **Pobierz:** [App Store](https://apps.apple.com/pl/app/niedzielne-zakupy/id6784206894?l=pl) · [Google Play](https://play.google.com/store/apps/details?id=fringoo.tbansundays&hl=pl)  
-**Feedback:** [Zgłoś błąd](../../issues/new?template=bug_report.yml) · [Zaproponuj ulepszenie](../../issues/new?template=feature_request.yml) · [Problem z tekstem lub tłumaczeniem](../../issues/new?template=translation_fix.yml)
+**Feedback:** [Zgłoś błąd](../../issues/new?template=bug_report.yml) · [Zaproponuj ulepszenie](../../issues/new?template=feature_request.yml) · [Problem z tekstem lub tłumaczeniem](../../issues/new?template=translation_fix.yml)  
+**Prywatność:** [Polityka prywatności](polityka-prywatnosci.md)
 
 ---
 

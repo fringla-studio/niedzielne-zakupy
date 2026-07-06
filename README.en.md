@@ -12,7 +12,8 @@ This is the public „issues-only” repository for the **Niedzielne Zakupy** ap
 - reporting text or translation issues.
 
 **Download:** [App Store](https://apps.apple.com/pl/app/niedzielne-zakupy/id6784206894?l=en) · [Google Play](https://play.google.com/store/apps/details?id=fringoo.tbansundays&hl=en)  
-**Feedback:** [Report a bug](../../issues/new?template=bug_report.yml) · [Suggest an improvement](../../issues/new?template=feature_request.yml) · [Text or translation issue](../../issues/new?template=translation_fix.yml)
+**Feedback:** [Report a bug](../../issues/new?template=bug_report.yml) · [Suggest an improvement](../../issues/new?template=feature_request.yml) · [Text or translation issue](../../issues/new?template=translation_fix.yml)  
+**Privacy:** [Privacy Policy](privacy-policy.md)
 
 ---
 
